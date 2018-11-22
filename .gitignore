@@ -1,0 +1,5 @@
+praw.ini
+raw/csv/
+data.db
+deinopis.log
+__pycache__/
