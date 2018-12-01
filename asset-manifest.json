@@ -1,13 +1,13 @@
 {
-  "main.css": "/deinopis/site/static/css/main.b4593c64.chunk.css",
-  "main.js": "/deinopis/site/static/js/main.045b69e4.chunk.js",
-  "main.js.map": "/deinopis/site/static/js/main.045b69e4.chunk.js.map",
-  "static/js/1.ae8c3e37.chunk.js": "/deinopis/site/static/js/1.ae8c3e37.chunk.js",
-  "static/js/1.ae8c3e37.chunk.js.map": "/deinopis/site/static/js/1.ae8c3e37.chunk.js.map",
-  "runtime~main.js": "/deinopis/site/static/js/runtime~main.9b33f440.js",
-  "runtime~main.js.map": "/deinopis/site/static/js/runtime~main.9b33f440.js.map",
-  "static/css/main.b4593c64.chunk.css.map": "/deinopis/site/static/css/main.b4593c64.chunk.css.map",
-  "index.html": "/deinopis/site/index.html",
-  "precache-manifest.83c9bf668c3b2451eb8849b45d8d6903.js": "/deinopis/site/precache-manifest.83c9bf668c3b2451eb8849b45d8d6903.js",
-  "service-worker.js": "/deinopis/site/service-worker.js"
+  "main.css": "/deinopis/static/css/main.b4593c64.chunk.css",
+  "main.js": "/deinopis/static/js/main.045b69e4.chunk.js",
+  "main.js.map": "/deinopis/static/js/main.045b69e4.chunk.js.map",
+  "static/js/1.ae8c3e37.chunk.js": "/deinopis/static/js/1.ae8c3e37.chunk.js",
+  "static/js/1.ae8c3e37.chunk.js.map": "/deinopis/static/js/1.ae8c3e37.chunk.js.map",
+  "runtime~main.js": "/deinopis/static/js/runtime~main.63fe5370.js",
+  "runtime~main.js.map": "/deinopis/static/js/runtime~main.63fe5370.js.map",
+  "static/css/main.b4593c64.chunk.css.map": "/deinopis/static/css/main.b4593c64.chunk.css.map",
+  "index.html": "/deinopis/index.html",
+  "precache-manifest.85c2d44c0cf5f44d1067999bf20e60a9.js": "/deinopis/precache-manifest.85c2d44c0cf5f44d1067999bf20e60a9.js",
+  "service-worker.js": "/deinopis/service-worker.js"
 }

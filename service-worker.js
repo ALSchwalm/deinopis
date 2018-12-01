@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/deinopis/site/precache-manifest.83c9bf668c3b2451eb8849b45d8d6903.js"
+  "/deinopis/precache-manifest.85c2d44c0cf5f44d1067999bf20e60a9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/deinopis/site/index.html", {
+workbox.routing.registerNavigationRoute("/deinopis/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
