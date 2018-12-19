@@ -62,7 +62,8 @@ class TextSearch extends React.Component {
     }
 
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://hzok4iea31.execute-api.us-east-2.amazonaws.com/beta/deinopis", true);
+    xhr.open("POST", "http://18.191.81.5:8000/suggestions", true);
+    xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
 
     xhr.send(
       JSON.stringify({
