@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "edbde522fe56ab05742b",
+    "revision": "47a24e8f3ba5c1c8d64c",
     "url": "/deinopis/static/css/main.b4593c64.chunk.css"
   },
   {
-    "revision": "edbde522fe56ab05742b",
-    "url": "/deinopis/static/js/main.edbde522.chunk.js"
+    "revision": "47a24e8f3ba5c1c8d64c",
+    "url": "/deinopis/static/js/main.47a24e8f.chunk.js"
   },
   {
     "revision": "96015247e8c896296093",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/deinopis/static/js/runtime~main.63fe5370.js"
   },
   {
-    "revision": "832deb14079b17bea6cb93ebc6930c01",
+    "revision": "82aa1e563f23669a0f623f1d94901932",
     "url": "/deinopis/index.html"
   }
 ];
