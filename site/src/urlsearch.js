@@ -82,7 +82,7 @@ class KeywordUrlSearch extends React.Component {
     }
 
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "http://18.191.81.5:8000/suggestions", true);
+    xhr.open("POST", "https://micro-ec2.alschwalm.com/suggestions", true);
     xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
 
     if (!isUrl(value) && isUrl("http://" + value)) {
@@ -139,9 +139,11 @@ class KeywordUrlSearch extends React.Component {
     if (!this.state.data.length || !this.props.urlSearched) {
       let labels = [
         "space cat",
-        "spooky ghost",
+        "reddit.com/r/nosleep/comments/7txais",
         "elf",
-        "reddit.com/r/HFY/comments/5tcesp"
+        "cursed cave",
+        "reddit.com/r/HFY/comments/5tcesp",
+        "reddit.com/r/HFY/comments/2it95v"
       ];
 
       examples = (
