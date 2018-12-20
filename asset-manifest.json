@@ -1,13 +1,13 @@
 {
   "main.css": "/deinopis/static/css/main.b4593c64.chunk.css",
-  "main.js": "/deinopis/static/js/main.bc8de49e.chunk.js",
-  "main.js.map": "/deinopis/static/js/main.bc8de49e.chunk.js.map",
-  "static/js/1.96015247.chunk.js": "/deinopis/static/js/1.96015247.chunk.js",
-  "static/js/1.96015247.chunk.js.map": "/deinopis/static/js/1.96015247.chunk.js.map",
+  "main.js": "/deinopis/static/js/main.3d110887.chunk.js",
+  "main.js.map": "/deinopis/static/js/main.3d110887.chunk.js.map",
+  "static/js/1.716a76e5.chunk.js": "/deinopis/static/js/1.716a76e5.chunk.js",
+  "static/js/1.716a76e5.chunk.js.map": "/deinopis/static/js/1.716a76e5.chunk.js.map",
   "runtime~main.js": "/deinopis/static/js/runtime~main.63fe5370.js",
   "runtime~main.js.map": "/deinopis/static/js/runtime~main.63fe5370.js.map",
   "static/css/main.b4593c64.chunk.css.map": "/deinopis/static/css/main.b4593c64.chunk.css.map",
   "index.html": "/deinopis/index.html",
-  "precache-manifest.73c181b6354fdcb4b6b07d852e4ab9de.js": "/deinopis/precache-manifest.73c181b6354fdcb4b6b07d852e4ab9de.js",
+  "precache-manifest.f75adc204ccdc3394ab9232385cdc203.js": "/deinopis/precache-manifest.f75adc204ccdc3394ab9232385cdc203.js",
   "service-worker.js": "/deinopis/service-worker.js"
 }
