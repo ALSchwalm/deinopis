@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/deinopis/static/js/runtime~main.63fe5370.js"
   },
   {
-    "revision": "dfbe24191dc5891150b21f1ed289850e",
+    "revision": "1b7a7172622d9ff89408c8e9b0096716",
     "url": "/deinopis/index.html"
   }
 ];
