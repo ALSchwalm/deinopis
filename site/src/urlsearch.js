@@ -141,7 +141,7 @@ class KeywordUrlSearch extends React.Component {
         "space cat",
         "reddit.com/r/nosleep/comments/7txais",
         "elf",
-        "cursed cave",
+        "dark and stormy night",
         "reddit.com/r/HFY/comments/5tcesp",
         "reddit.com/r/HFY/comments/2it95v"
       ];
