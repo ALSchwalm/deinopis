@@ -175,7 +175,7 @@ class KeywordUrlSearch extends React.Component {
           onCancelSearch={this.onCancel}
           value={this.props.urlSearch}
         />
-        {examples}
+        {!this.props.urlSearched && examples}
         <div className={classes.results}>
           {this.props.urlSearched && <Results data={this.state.data} />}
         </div>
